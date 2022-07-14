@@ -1,0 +1,10 @@
+Convertir las siguientes expresiones a notación prefija y postfija y realizar la
+evaluación de la notación posfija.
+
+(A + B) * C - (D - E) * (F + G)
+4*(5+6-(8/2^3)-7)-1
+
+Prefija:
+
+(A+B)*C-(D-E)*(F+G) = (+AB)*C-(-DE)*(+FG) = -+AB*C-DE*+FG
+4*(5+6-(8/2^3)-7)-1 = 4*(5+6-(/82^3)-7)-1 = 4*(--+56(/82^3)7)-1 = -*4--+56/82^371

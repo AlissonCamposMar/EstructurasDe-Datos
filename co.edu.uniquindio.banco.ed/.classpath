@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="libs64/org.eclipse.core.commands_3.8.0.v20160316-1921.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs64/org.eclipse.equinox.common_3.8.0.v20160509-1230.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs64/org.eclipse.jface_3.12.0.v20160518-1929.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs64/org.eclipse.swt_3.105.1.v20160907-0248.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs64/org.eclipse.swt.win32.win32.x86_64_3.105.1.v20160907-0248.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs64/org.eclipse.swt.win32.win32.x86_64.source_3.105.1.v20160907-0248.jar"/>
+	<classpathentry exported="true" kind="lib" path="org.eclipse.wb.swt"/>
+	<classpathentry exported="true" kind="lib" path="swing2swt.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs64/org.eclipse.core.databinding_1.6.0.v20160412-0910.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs64/org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs64/org.eclipse.jface.databinding_1.8.0.v20160420-2231.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs64/com.ibm.icu-56.1.0.v201601250100.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs64/org.eclipse.core.databinding.beans_1.3.100.v20160509-1025.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs64/org.eclipse.core.databinding.property_1.6.0.v20160427-0852.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

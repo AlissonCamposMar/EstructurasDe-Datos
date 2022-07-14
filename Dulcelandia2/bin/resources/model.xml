@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_291" class="java.beans.XMLDecoder">
+ <object class="co.edu.uniquindio.dulcelandia.model.Tienda" id="Tienda0">
+  <void property="listaClientes">
+   <void method="add">
+    <object class="co.edu.uniquindio.dulcelandia.model.Cliente">
+     <void property="cedula">
+      <string>456</string>
+     </void>
+     <void property="email">
+      <string>marta@gmail.com</string>
+     </void>
+     <void property="nombre">
+      <string>Marta</string>
+     </void>
+     <void property="telefono">
+      <string>3135625983</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.dulcelandia.model.Cliente">
+     <void property="cedula">
+      <string>789</string>
+     </void>
+     <void property="email">
+      <string>camilo@gmail.com</string>
+     </void>
+     <void property="nombre">
+      <string>Camilo</string>
+     </void>
+     <void property="telefono">
+      <string>3105626983</string>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="listaEmpleados">
+   <void method="add">
+    <object class="co.edu.uniquindio.dulcelandia.model.Empleado">
+     <void property="cedula">
+      <string>123</string>
+     </void>
+     <void property="email">
+      <string>juan@gmail.com</string>
+     </void>
+     <void property="nombre">
+      <string>Juan</string>
+     </void>
+     <void property="telefono">
+      <string>315566983</string>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="listaProductos">
+   <void method="add">
+    <object class="co.edu.uniquindio.dulcelandia.model.Producto">
+     <void property="cantidadExistente">
+      <string>10</string>
+     </void>
+     <void property="codigo">
+      <string>4321</string>
+     </void>
+     <void property="nombreProducto">
+      <string>Barrilete</string>
+     </void>
+     <void property="precio">
+      <string>200</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.dulcelandia.model.Producto">
+     <void property="cantidadExistente">
+      <string>4</string>
+     </void>
+     <void property="codigo">
+      <string>1234</string>
+     </void>
+     <void property="nombreProducto">
+      <string>Bombon</string>
+     </void>
+     <void property="precio">
+      <string>400</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.dulcelandia.model.Producto">
+     <void property="cantidadExistente">
+      <string>7</string>
+     </void>
+     <void property="codigo">
+      <string>5465</string>
+     </void>
+     <void property="nombreProducto">
+      <string>Chicle</string>
+     </void>
+     <void property="precio">
+      <string>100</string>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="listaProveedores">
+   <void method="add">
+    <object class="co.edu.uniquindio.dulcelandia.model.Proveedor">
+     <void property="cedula">
+      <string>498</string>
+     </void>
+     <void property="email">
+      <string>mateo@gmail.com</string>
+     </void>
+     <void property="nombre">
+      <string>Mateo</string>
+     </void>
+     <void property="telefono">
+      <string>315565983</string>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="listaUsuarios">
+   <void method="add">
+    <object class="co.edu.uniquindio.dulcelandia.model.Usuario">
+     <void property="contraseña">
+      <string>1234</string>
+     </void>
+     <void property="usuario">
+      <string>carlos</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.dulcelandia.model.Usuario">
+     <void property="contraseña">
+      <string>4321</string>
+     </void>
+     <void property="usuario">
+      <string>juan</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,552 @@
+jul 06, 2021 9:20:48 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 06, 2021 9:20:48 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 06, 2021 9:20:48 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 06, 2021 9:21:11 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 06, 2021 9:21:11 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: EMPLEADO AGREGADO
+jul 06, 2021 9:21:11 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 06, 2021 9:21:38 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 06, 2021 9:21:38 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CLIENTE AGREGADO
+jul 06, 2021 9:21:38 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 06, 2021 9:22:05 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 06, 2021 9:22:05 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 06, 2021 9:22:05 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 06, 2021 9:22:15 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 06, 2021 9:22:15 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION AGREGADA
+jul 06, 2021 9:22:15 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 21, 2021 8:25:04 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 21, 2021 8:25:04 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CLIENTE ELIMINADO
+jul 21, 2021 8:25:04 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 22, 2021 9:05:41 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 22, 2021 9:05:41 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 22, 2021 9:05:41 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 22, 2021 9:05:51 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 22, 2021 9:05:51 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 22, 2021 9:05:51 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 2:35:58 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 2:35:58 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 23, 2021 2:35:58 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 2:56:46 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 2:56:46 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 23, 2021 2:56:46 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 2:56:55 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 2:56:55 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA ELIMINADA
+jul 23, 2021 2:56:55 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 2:58:23 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 2:58:23 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 23, 2021 2:58:23 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 3:29:45 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 3:29:45 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CLIENTE ELIMINADO
+jul 23, 2021 3:29:45 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 3:31:45 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 3:31:45 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CLIENTE ELIMINADO
+jul 23, 2021 3:31:45 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 3:32:47 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 3:32:47 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CLIENTE ELIMINADO
+jul 23, 2021 3:32:47 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 3:35:46 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 3:35:46 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CLIENTE ELIMINADO
+jul 23, 2021 3:35:46 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 3:36:21 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 3:36:21 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CLIENTE ELIMINADO
+jul 23, 2021 3:36:21 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 3:50:31 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 3:50:31 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CLIENTE AGREGADO
+jul 23, 2021 3:50:31 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 3:50:36 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 3:50:36 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CLIENTE ELIMINADO
+jul 23, 2021 3:50:36 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 3:50:53 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 3:50:53 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 23, 2021 3:50:53 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 3:50:55 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 3:50:55 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: EMPLEADO ELIMINADO
+jul 23, 2021 3:50:55 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 3:52:25 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 3:52:25 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 23, 2021 3:52:25 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 3:52:27 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 3:52:27 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA ELIMINADA
+jul 23, 2021 3:52:27 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 3:53:59 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 3:53:59 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA ELIMINADA
+jul 23, 2021 3:53:59 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 4:25:44 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 4:25:44 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CLIENTE AGREGADO
+jul 23, 2021 4:25:44 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 4:29:52 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 4:29:52 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CLIENTE AGREGADO
+jul 23, 2021 4:29:52 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 4:30:07 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 4:30:07 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CLIENTE AGREGADO
+jul 23, 2021 4:30:07 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 4:30:10 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 4:30:10 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CLIENTE ELIMINADO
+jul 23, 2021 4:30:10 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 4:39:12 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 4:39:12 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: EMPLEADO ELIMINADO
+jul 23, 2021 4:39:12 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 7:33:45 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 7:33:45 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CAMPOS ELIMINADOS
+jul 23, 2021 7:33:45 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 8:47:08 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 8:47:08 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION AGREGADA
+jul 23, 2021 8:47:08 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 8:47:12 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 8:47:12 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION AGREGADA
+jul 23, 2021 8:47:12 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 8:49:47 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: EXCEPCION LANZADA
+jul 23, 2021 8:49:47 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION NO ACTUALIZADA
+jul 23, 2021 8:49:47 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION NO AÑADIDA
+jul 23, 2021 8:49:57 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 8:49:57 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION AGREGADA
+jul 23, 2021 8:49:57 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 8:50:07 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 8:50:07 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION AGREGADA
+jul 23, 2021 8:50:07 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 8:52:03 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 8:52:03 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 23, 2021 8:52:03 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 8:52:36 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 8:52:36 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 23, 2021 8:52:36 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 8:55:24 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 8:55:24 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 23, 2021 8:55:24 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 8:56:18 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 8:56:18 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION AGREGADA
+jul 23, 2021 8:56:18 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 8:56:34 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 8:56:34 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 23, 2021 8:56:34 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 8:56:52 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 8:56:52 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 23, 2021 8:56:52 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 8:57:05 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 8:57:05 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA ELIMINADA
+jul 23, 2021 8:57:05 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 8:57:23 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 8:57:23 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 23, 2021 8:57:23 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 8:58:40 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 8:58:40 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 23, 2021 8:58:40 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 8:59:10 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 8:59:10 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA ELIMINADA
+jul 23, 2021 8:59:10 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 8:59:13 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 8:59:13 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA ELIMINADA
+jul 23, 2021 8:59:13 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 8:59:24 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 8:59:24 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 23, 2021 8:59:24 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:00:13 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:00:13 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA ELIMINADA
+jul 23, 2021 9:00:13 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 9:01:08 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:01:08 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 23, 2021 9:01:08 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:02:21 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:02:21 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA ELIMINADA
+jul 23, 2021 9:02:21 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 9:02:36 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:02:36 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 23, 2021 9:02:36 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:02:42 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:02:42 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 23, 2021 9:02:42 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:03:29 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:03:29 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA ELIMINADA
+jul 23, 2021 9:03:29 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 9:03:39 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:03:39 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 23, 2021 9:03:39 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:03:43 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:03:43 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 23, 2021 9:03:43 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:04:07 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:04:07 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA ELIMINADA
+jul 23, 2021 9:04:07 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 9:04:13 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:04:13 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION AGREGADA
+jul 23, 2021 9:04:13 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:04:20 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:04:20 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION AGREGADA
+jul 23, 2021 9:04:20 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:07:21 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:07:21 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION AGREGADA
+jul 23, 2021 9:07:21 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:08:42 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:08:42 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION AGREGADA
+jul 23, 2021 9:08:42 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:09:24 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:09:24 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION AGREGADA
+jul 23, 2021 9:09:24 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:10:01 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:10:01 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION AGREGADA
+jul 23, 2021 9:10:01 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:11:43 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:11:43 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION AGREGADA
+jul 23, 2021 9:11:43 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:12:02 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:12:02 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION AGREGADA
+jul 23, 2021 9:12:02 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:13:35 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:13:35 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 23, 2021 9:13:35 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:13:48 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:13:48 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 23, 2021 9:13:48 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:14:01 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:14:01 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA ELIMINADA
+jul 23, 2021 9:14:01 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 9:18:08 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:18:08 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION AGREGADA
+jul 23, 2021 9:18:08 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:19:22 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:19:22 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION AGREGADA
+jul 23, 2021 9:19:22 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:20:10 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:20:10 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION AGREGADA
+jul 23, 2021 9:20:10 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:21:08 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:21:09 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CLIENTE AGREGADO
+jul 23, 2021 9:21:09 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:21:12 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:21:12 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CLIENTE ELIMINADO
+jul 23, 2021 9:21:12 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 9:21:18 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:21:18 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION AGREGADA
+jul 23, 2021 9:21:18 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:21:28 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:21:28 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 23, 2021 9:21:28 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:21:42 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:21:42 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: EMPLEADO AGREGADO
+jul 23, 2021 9:21:42 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:21:45 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:21:45 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: EMPLEADO ELIMINADO
+jul 23, 2021 9:21:45 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 9:21:53 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:21:53 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 23, 2021 9:21:53 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:21:56 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:21:56 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA ELIMINADA
+jul 23, 2021 9:21:56 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 9:22:36 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:22:36 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION AGREGADA
+jul 23, 2021 9:22:36 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:25:13 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:25:13 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION ELIMINADA
+jul 23, 2021 9:25:13 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 9:58:41 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:58:41 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 23, 2021 9:58:41 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:58:41 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: EXCEPCION LANZADA
+jul 23, 2021 9:58:41 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: EMPLEADO NO CREADO
+jul 23, 2021 9:58:41 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION NO AÑADIDA
+jul 23, 2021 9:58:50 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:58:50 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CLIENTE AGREGADO
+jul 23, 2021 9:58:50 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:58:50 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: EXCEPCION LANZADA
+jul 23, 2021 9:58:50 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CLIENTE NO CREADO
+jul 23, 2021 9:58:50 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION NO AÑADIDA
+jul 23, 2021 9:59:00 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:59:00 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA AGREGADA
+jul 23, 2021 9:59:00 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:59:00 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: EXCEPCION LANZADA
+jul 23, 2021 9:59:00 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CUENTA NO CREADA
+jul 23, 2021 9:59:00 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION NO AÑADIDA
+jul 23, 2021 9:59:06 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:59:06 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION AGREGADA
+jul 23, 2021 9:59:06 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:59:06 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: EXCEPCION LANZADA
+jul 23, 2021 9:59:06 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION NO CREADA
+jul 23, 2021 9:59:06 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION NO AÑADIDA
+jul 23, 2021 9:59:12 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:59:12 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION AGREGADA
+jul 23, 2021 9:59:12 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 9:59:15 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 9:59:15 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: TRANSACCION ELIMINADA
+jul 23, 2021 9:59:15 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA
+jul 23, 2021 10:03:05 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 10:03:05 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CLIENTE AGREGADO
+jul 23, 2021 10:03:05 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION AÑADIDA
+jul 23, 2021 10:03:13 PM co.edu.uniquindio.restaurante.util.util logging
+INFORMACIÓN: INFO: OPERACION REALIZADA CON EXITO
+jul 23, 2021 10:03:13 PM co.edu.uniquindio.restaurante.util.util logging
+ADVERTENCIA: INFO: CLIENTE ELIMINADO
+jul 23, 2021 10:03:13 PM co.edu.uniquindio.restaurante.util.util logging
+GRAVE: INFO: INFORMACION ELIMINADA

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_321" class="java.beans.XMLDecoder">
+ <object class="co.edu.uniquindio.dulcelandia.model.Tienda" id="Tienda0">
+  <void property="listaClientes">
+   <void method="add">
+    <object class="co.edu.uniquindio.dulcelandia.model.Cliente">
+     <void property="cedula">
+      <string>99903094</string>
+     </void>
+     <void property="email">
+      <string>victor@gmail.com</string>
+     </void>
+     <void property="nombre">
+      <string>Victor</string>
+     </void>
+     <void property="telefono">
+      <string>311112223</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.dulcelandia.model.Cliente">
+     <void property="cedula">
+      <string>@33000000</string>
+     </void>
+     <void property="email">
+      <string>vvvvv@gmail.com</string>
+     </void>
+     <void property="nombre">
+      <string>vvvvvvv</string>
+     </void>
+     <void property="telefono">
+      <string>@455405050</string>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="listaEmpleados">
+   <void method="add">
+    <object class="co.edu.uniquindio.dulcelandia.model.Empleado">
+     <void property="cedula">
+      <string>1000024</string>
+     </void>
+     <void property="email">
+      <string>daniel@gmail.com</string>
+     </void>
+     <void property="nombre">
+      <string>Daniel</string>
+     </void>
+     <void property="telefono">
+      <string>31717003</string>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="listaProductos">
+   <void method="add">
+    <object class="co.edu.uniquindio.dulcelandia.model.Producto">
+     <void property="cantidadExistente">
+      <string>2000</string>
+     </void>
+     <void property="codigo">
+      <string>9902</string>
+     </void>
+     <void property="nombreProducto">
+      <string>bombon</string>
+     </void>
+     <void property="precio">
+      <string>3000</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.dulcelandia.model.Producto">
+     <void property="cantidadExistente">
+      <string>5</string>
+     </void>
+     <void property="codigo">
+      <string>10204</string>
+     </void>
+     <void property="nombreProducto">
+      <string>barrilete</string>
+     </void>
+     <void property="precio">
+      <string>200</string>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="listaProveedores">
+   <void method="add">
+    <object class="co.edu.uniquindio.dulcelandia.model.Proveedor">
+     <void property="cedula">
+      <string>498</string>
+     </void>
+     <void property="email">
+      <string>mateo@gmail.com</string>
+     </void>
+     <void property="nombre">
+      <string>Mateo</string>
+     </void>
+     <void property="telefono">
+      <string>315565983</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.dulcelandia.model.Proveedor">
+     <void property="cedula">
+      <string>1010203</string>
+     </void>
+     <void property="email">
+      <string>andres@gmail.com</string>
+     </void>
+     <void property="nombre">
+      <string>Andres</string>
+     </void>
+     <void property="telefono">
+      <string>423344</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.dulcelandia.model.Proveedor">
+     <void property="cedula">
+      <string>0000909</string>
+     </void>
+     <void property="email">
+      <string>victor@gmail.com</string>
+     </void>
+     <void property="nombre">
+      <string>Victor</string>
+     </void>
+     <void property="telefono">
+      <string>3444555</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.dulcelandia.model.Proveedor">
+     <void property="cedula">
+      <string>11223</string>
+     </void>
+     <void property="email">
+      <string>vadafv@gaaa</string>
+     </void>
+     <void property="nombre">
+      <string>adadad</string>
+     </void>
+     <void property="telefono">
+      <string>12122</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
